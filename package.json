@@ -3,7 +3,7 @@
   "version": "0.9.8",
   "description": "Buttons with built-in loading indicators",
   "homepage": "http://lab.hakim.se/ladda",
-  "main": "./dist/ladda.min",
+  "main": "./js/ladda.js",
   "scripts": {
     "test": "grunt jshint",
     "start": ""
@@ -11,7 +11,7 @@
   "author": {
     "name": "Hakim El Hattab",
     "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "url": "http://hakim.se"
   },
   "repository": {
     "type": "git",
@@ -36,5 +36,28 @@
   ],
   "dependencies": {
     "spin.js": "^2.0.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/hakimel/Ladda/issues"
+  },
+  "_id": "ladda@0.9.8",
+  "dist": {
+    "shasum": "aa3cbfe7844e9544d5133cf69feccd7aabb20624",
+    "tarball": "http://registry.npmjs.org/ladda/-/ladda-0.9.8.tgz"
+  },
+  "_from": "ladda@",
+  "_npmVersion": "1.4.3",
+  "_npmUser": {
+    "name": "hakimel",
+    "email": "hakim.elhattab@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "hakimel",
+      "email": "hakim.elhattab@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "aa3cbfe7844e9544d5133cf69feccd7aabb20624",
+  "_resolved": "https://registry.npmjs.org/ladda/-/ladda-0.9.8.tgz"
 }
